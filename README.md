@@ -41,7 +41,7 @@ Never enter passwords from unexpected links.
 Full table: `tests/test_samples.md`
 
 ## Screenshots
-![Sample run](pictures/sample_run.png)
+![Sample run](screenshots/sample_run.png)
 ![Test results](screenshots/test_results.png)
 
 ## Improvements
@@ -60,4 +60,4 @@ Use sample strings only. Do not collect credentials. Do not use this
 project to deceive anyone or to test websites without permission.
 
 ## Author
-[Your name], [batch or course], EWB Courses
+SAHIL SHAHABZ, Cybersecuirty, EWB Courses
